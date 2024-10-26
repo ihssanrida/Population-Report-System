@@ -3,4 +3,4 @@ A web application for analyzing and reporting world population statistics.
 
 
 ### Use Case Diagram
-![Example Image](images/Population reporting System Use Case Diagram.png)
+![Example Image](images/Population_reporting_System_Use_Case_Diagram.pngg)
